@@ -1,0 +1,15 @@
+﻿Nissan;2008;1,6;
+Nissan;2010;1,6;4;
+Nissan;2005;1,6;2;
+Nissan;2008;1,6;
+Nissan;2010;1,6;4;
+Nissan;2005;1,6;2;
+Nissan;2008;1,6;
+Nissan;2010;1,6;4;
+Nissan;2005;1,6;2;
+Nissan;2008;1,6;
+Nissan;2010;1,6;4;
+Nissan;2005;1,6;2;
+Nissan;2008;1,6;
+Nissan;2010;1,6;4;
+Nissan;2005;1,6;2;
